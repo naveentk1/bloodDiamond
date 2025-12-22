@@ -23,3 +23,4 @@ compile_commands.json
 # Other
 *.log
 .DS_Store
+.cache/
