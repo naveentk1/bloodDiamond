@@ -6,6 +6,8 @@ build/
 *.dylib
 *.dll
 *.exe
+a.out
+*.o
 
 # IDE files
 .vscode/
